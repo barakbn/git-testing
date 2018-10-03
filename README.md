@@ -31,7 +31,7 @@ An always up-to-date reference is also available in the [MutantMatcher source](.
 
 | Original | Mutated |
 | --- | --- |
-| `&amp;&amp;` | ||` |
+| `&amp;&amp;` | `\|\|` |
 | `\|\|` | `&amp;&amp;`  |
 
 
